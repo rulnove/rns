@@ -1,0 +1,607 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Untitled Spreadsheet</Title>
+  <Author>sandhi</Author>
+  <LastAuthor>Admin</LastAuthor>
+  <Created>2017-06-23T03:28:30Z</Created>
+  <LastSaved>2019-05-16T04:48:06Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <Colors>
+   <Color>
+    <Index>2</Index>
+    <RGB>#C0C0C0</RGB>
+   </Color>
+  </Colors>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5490</WindowHeight>
+  <WindowWidth>9660</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="m46337512">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m46337532">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m46337552">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m46337572">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s15">
+   <Interior/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s28">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Calibri" ss:Size="16" ss:Color="#000000" ss:Bold="1"/>
+   <Interior/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s29">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Calibri" ss:Size="13" ss:Color="#000000" ss:Bold="1"/>
+   <Interior/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s30">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Font ss:FontName="Calibri" ss:Size="12" ss:Color="#000000" ss:Bold="1"/>
+   <Interior/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s34">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Calibri" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s36">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="Calibri" ss:Size="14" ss:Color="#000000" ss:Bold="1"/>
+   <Interior/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s37">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Interior/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="JADWAL IMSAKIYAH WILAYAH JAWA B">
+  <Table ss:ExpandedColumnCount="11" ss:ExpandedRowCount="40" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s15" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="28.5"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="63"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="51.75"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="66.75" ss:Span="7"/>
+   <Row ss:AutoFitHeight="0"/>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:Index="3" ss:MergeAcross="8" ss:StyleID="s28"><Data ss:Type="String">KEMENTERIAN AGAMA REPUBLIK INDONESIA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="17.25">
+    <Cell ss:Index="3" ss:MergeAcross="8" ss:StyleID="s29"><Data ss:Type="String">DIREKTORAT JENDERAL BIMBINGAN MASYARAKAT ISLAM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.75">
+    <Cell ss:Index="3" ss:MergeAcross="8" ss:StyleID="s30"><Data ss:Type="String">JADWAL IMSAKIYAH 1440 H/2019 M PROVINSI JAWA BARAT</Data></Cell>
+   </Row>
+   <Row ss:Index="6" ss:AutoFitHeight="0" ss:Height="18.75">
+    <Cell ss:MergeAcross="10" ss:StyleID="s36"><Data ss:Type="String">UNTUK DAERAH KAB. GARUT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="10" ss:StyleID="s37"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeDown="2" ss:StyleID="m46337532"><Data ss:Type="String">NO</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:MergeDown="2" ss:StyleID="m46337572"><Data
+      ss:Type="String">TANGGAL</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="s34"><Data ss:Type="String">IMSAK</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="s34"><Data ss:Type="String">SUBUH</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m46337512"><Data ss:Type="String">TERBIT</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m46337552"><Data ss:Type="String">DUHA</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="s34"><Data ss:Type="String">ZUHUR</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="s34"><Data ss:Type="String">ASAR</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="s34"><Data ss:Type="String">MAGRIB</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="s34"><Data ss:Type="String">ISYA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Span="1"/>
+   <Row ss:Index="11">
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s16"><Data ss:Type="String">1 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:32</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:43</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:15</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:49</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:47</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">2 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:32</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:43</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:15</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:49</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:47</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">3 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:32</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:43</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:15</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:47</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">4 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:32</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:43</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:15</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:47</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">5 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:32</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:43</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:47</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">6 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:32</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:43</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">7 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:32</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:43</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">8 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:32</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:43</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">9 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:32</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:43</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">10 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:32</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:44</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">11 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:32</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:44</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:16</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">12 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:32</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:44</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:17</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">13 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:32</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:44</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:17</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">14 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:22</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:32</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:44</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:17</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">15 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:23</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:33</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:44</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:17</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:45</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">16 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:23</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:33</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:44</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:17</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:48</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:45</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">17 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:23</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:33</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:45</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:18</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:49</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:45</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">18 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:23</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:33</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:45</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:18</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:49</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:45</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">19</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">19 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:23</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:33</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:45</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:18</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:49</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:45</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">20 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:23</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:33</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:45</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:18</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:49</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:45</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">21 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:23</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:33</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:45</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:19</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:49</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:45</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">22</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">22 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:23</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:33</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:19</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:49</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:09</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:45</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">23</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">23 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:23</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:33</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:19</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:49</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:10</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:45</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">24 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:23</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:33</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:19</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:49</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:10</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:45</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">25 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:24</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:34</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:19</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:49</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:10</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:55</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">26</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">26 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:24</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:34</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:20</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:50</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:10</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:55</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">27</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">27 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:24</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:34</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:47</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:20</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:50</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:10</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:55</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">28</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">28 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:24</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:34</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:47</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:20</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:50</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:10</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:55</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">29</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">29 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:24</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:34</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:47</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:20</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:50</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:10</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:55</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s16"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s17"><Data ss:Type="String">30 Ramadan 1440 H</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:24</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">04:34</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">05:47</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">06:21</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">11:50</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">15:10</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">17:46</Data></Cell>
+    <Cell ss:StyleID="s17"><Data ss:Type="String">18:55</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.31496062992125984"/>
+    <Footer x:Margin="0.31496062992125984"/>
+    <PageMargins x:Bottom="0.51181102362204722" x:Left="0.35433070866141736"
+     x:Right="0.39370078740157483" x:Top="0.55118110236220474"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>64</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <PageBreakZoom>60</PageBreakZoom>
+   <Selected/>
+   <DoNotDisplayGridlines/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>13</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <PublishObjects xmlns="urn:schemas-microsoft-com:office:excel">
+   <PublishObject>
+    <Id>12464</Id>
+    <DivID>JADWAL IMSAKIYAH WILAYAH JAWA BARAT-KAB. GARUT_12464</DivID>
+    <SourceType>SourceSheet</SourceType>
+    <HtmlType>HtmlStatic</HtmlType>
+    <Location
+     x:HRef="E:\SAHRUL\INPUTEKNO\JADWAL IMSAKIYAH WILAYAH JAWA BARAT-KAB. GARUT.htm"/>
+   </PublishObject>
+  </PublishObjects>
+ </Worksheet>
+</Workbook>
